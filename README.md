@@ -1,6 +1,6 @@
 # HFANet
 
-Thanks for your interest in our work. This is a Siamese CNN for building change detection in VHR remote sensed imagery. More detailed information can be find at DOI: 10.1016/j.patcog.2022.108717
+Thanks for your interest in our work, HFA-Net:High Frequency Attention Siamese Network for Building Change Detection in VHR Remote Sensing Images. More detailed information can be find at DOI: 10.1016/j.patcog.2022.108717
 
 ## Instructions
 
